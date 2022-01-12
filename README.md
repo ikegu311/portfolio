@@ -26,10 +26,10 @@ string a = "これはC#の独立(cs)書式の独立したコードブロック�
 ## リンク
 [unityroom　ページ](https://unityroom.com/users/6ay9uw5scqfnjok7igl8)
 
-##　画像
+## 画像
 ![画像](https://user-images.githubusercontent.com/82490581/149071716-afb1fdc7-cf95-48e1-95c8-d14d8cc66348.png)
 
-##　箇条書き
+## 箇条書き
 **通常リスト**
 -箇条書き１
 -箇条書き２
@@ -64,6 +64,7 @@ string a = "これはC#の独立(cs)書式の独立したコードブロック�
 ## セパレーター
 ハイフン(-)やアスタリスク(*)を三つ以上でセパレーター
 ---
+
 ***
 ## 補足(Footnotes)
 補足[^1]の表記。wiki[^2]などで見るやつ。
