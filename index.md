@@ -17,13 +17,14 @@
 
 ## 取り組んでいるテーマ
 - ゲーム開発の基礎力向上
+- スクリプトの関数を別のスクリプトから操作する
 - リズムゲームのようなタイミング良くボタンを押すゲーム
--
+- 
 
 ## 作品リスト
 
 ### Yokeru2021
-![スクリーンショット 2022-01-12 160648](https://user-images.githubusercontent.com/82490581/149080201-d90b329f-093c-4bf8-be12-1b780413a56b.png)
+[![Yokeru2021](https://user-images.githubusercontent.com/82490581/149080201-d90b329f-093c-4bf8-be12-1b780413a56b.png)](https://unityroom.com/games/yokeru2021)
 
 
 [Yokeru2021](https://unityroom.com/games/yokeru2021)
@@ -34,9 +35,9 @@
 - 開発期間：2日
 
 ###  super unitychan sisters
-![game-image](https://user-images.githubusercontent.com/82490581/150061975-333adeb4-8433-443f-aacb-07ee51ca5cb8.jpg)
+![super unitychan sisters](https://user-images.githubusercontent.com/82490581/150061975-333adeb4-8433-443f-aacb-07ee51ca5cb8.jpg)
 
-[super unitychan sisters]()
+[super unitychan sisters]
 
 横画面でゴールを目指すプラットフォームアクションゲーム
 
@@ -45,11 +46,11 @@
 - チーム開発　stage1を担当
 
 ### It's high noon
-![スクリーンショット 2022-01-06 094507](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)
+[![It's high noon](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)](https://unityroom.com/games/itshighnoon)](https://unityroom.com/games/itshighnoon)
 
 [It's high noon](https://unityroom.com/games/itshighnoon)
 
-画面に出現するボタンを素早くクリックする早打ち風早押しゲーム
+画面に出現するボタンを素早くクリックする早撃ち風早押しゲーム
 
 - 開発環境:unity
 - 開発期間:1日
