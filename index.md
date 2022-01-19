@@ -33,6 +33,7 @@
 
 - 開発環境：unity
 - 開発期間：2日
+夏休み課題として作成
 
 ###  super unitychan sisters
 ![super unitychan sisters](https://user-images.githubusercontent.com/82490581/150061975-333adeb4-8433-443f-aacb-07ee51ca5cb8.jpg)
@@ -44,6 +45,8 @@
 - 開発環境：unity
 - 開発期間：1ヵ月
 - チーム開発　stage1を担当
+- 開発人数:4人
+学園祭用として作成
 
 ### It's high noon
 [![It's high noon](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)](https://unityroom.com/games/itshighnoon)]
@@ -54,6 +57,7 @@
 
 - 開発環境:unity
 - 開発期間:1日
+正月課題として作成
 
 ## 連絡先
 - E-mail [ikegu311@gmail.com](ikegu311@gmail.com)
