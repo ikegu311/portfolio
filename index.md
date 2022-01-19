@@ -26,7 +26,7 @@
 
 [Yokeru2021](https://unityroom.com/games/yokeru2021)
 
-作品概要 上から落ちてくるものを10秒間避けるゲーム
+上から落ちてくるものを10秒間避けるゲーム
 
 - 開発環境：unity
 - 開発期間：2日
@@ -36,16 +36,21 @@
 
 [super unitychan sisters]()
 
-作品概要 横画面でゴールを目指すプラットフォームアクションゲーム
+横画面でゴールを目指すプラットフォームアクションゲーム
 
 - 開発環境：unity
-- 開発期間：一ヵ月
-- チームで作成　stage1を担当
+- 開発期間：1ヵ月
+- チーム開発　stage1を担当
 
 ### It's high noon
 ![スクリーンショット 2022-01-06 094507](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)
 
 [It's high noon](https://unityroom.com/games/itshighnoon)
+
+画面に出現するボタンを素早くクリックする早打ち風早押しゲーム
+
+- 開発環境:unity
+- 開発期間:1日
 
 ## 連絡先
 - E-mail [ikegu311@gmail.com](ikegu311@gmail.com)
