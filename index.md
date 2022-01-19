@@ -32,7 +32,7 @@
 - 開発期間：2日
 
 ###  super unitychan sisters
-[game-image](https://user-images.githubusercontent.com/82490581/150061975-333adeb4-8433-443f-aacb-07ee51ca5cb8.jpg)
+![game-image](https://user-images.githubusercontent.com/82490581/150061975-333adeb4-8433-443f-aacb-07ee51ca5cb8.jpg)
 
 [super unitychan sisters]()
 
@@ -43,7 +43,7 @@
 - チームで作成　stage1を担当
 
 ### It's high noon
-[スクリーンショット 2022-01-06 094507](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)
+![スクリーンショット 2022-01-06 094507](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)
 
 [It's high noon](https://unityroom.com/games/itshighnoon)
 
