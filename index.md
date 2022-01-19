@@ -43,10 +43,9 @@
 横画面でゴールを目指すプラットフォームアクションゲーム
 
 - 開発環境：unity
-- 開発期間：1ヵ月
+- 開発期間：1ヵ月　学園祭用として作成
 - チーム開発　stage1を担当
 - 開発人数:4人
-学園祭用として作成
 
 ### It's high noon
 [![It's high noon](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)](https://unityroom.com/games/itshighnoon)]
