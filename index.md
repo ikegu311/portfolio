@@ -19,7 +19,7 @@
 - ゲーム開発の基礎力向上
 - スクリプトの関数を別のスクリプトから操作する
 - リズムゲームのようなタイミング良くボタンを押すゲーム
-- 
+-
 
 ## 作品リスト
 
@@ -46,7 +46,7 @@
 - チーム開発　stage1を担当
 
 ### It's high noon
-[![It's high noon](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)](https://unityroom.com/games/itshighnoon)](https://unityroom.com/games/itshighnoon)
+[![It's high noon](https://user-images.githubusercontent.com/82490581/150062643-8eba44c8-4d4b-4ecd-98ff-ec31167ee2d3.png)](https://unityroom.com/games/itshighnoon)]
 
 [It's high noon](https://unityroom.com/games/itshighnoon)
 
